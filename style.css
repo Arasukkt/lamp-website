@@ -3,6 +3,7 @@
     margin: 0;
     font-family:'poppins',sans-serif;
     box-sizing: border-box;
+    overflow:hidden;
 }
 body{
     overflow:hidden;
@@ -138,7 +139,4 @@ button span{
 }
 body{
     overflow: hidden;
-}
-@media screen and (min-width:250px) {
-    
 }
